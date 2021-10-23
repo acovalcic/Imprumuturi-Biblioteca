@@ -46,7 +46,7 @@
             this.textBox3.Name = "textBox3";
             this.textBox3.Size = new System.Drawing.Size(143, 20);
             this.textBox3.TabIndex = 2;
-            this.textBox3.Text = "01.01.2000";
+            this.textBox3.Text = "01.10.2021";
             this.textBox3.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // textBox2
@@ -120,7 +120,7 @@
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(143, 20);
             this.textBox4.TabIndex = 3;
-            this.textBox4.Text = "31.01.2000";
+            this.textBox4.Text = "31.10.2021";
             this.textBox4.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
             // 
             // label4
